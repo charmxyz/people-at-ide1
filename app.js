@@ -19,11 +19,34 @@ document.addEventListener('DOMContentLoaded', () => {
             strength: "1. Efficient, quick-paced work 2. Creative and energetic, 3 reliable, high standards for my own work.",
             weakness: "I’ll be impatient when I realise we have to stay up all night to finish our assignment because we couldn't settle on or kept changing ideas until the day before the presentation",
             values: "Implementable and practical",
-            workethics: "Wish be in a team and everyone has a clear role, discuss together and finish independent work with high quality. I hope we can work diligently on our graduation project",
+            workEthics: "Wish be in a team and everyone has a clear role, discuss together and finish independent work with high quality. I hope we can work diligently on our graduation project",
             topicsYoureInterestedIn: "AI, business potential",
             topicsYouWantToAvoid: "None",
             portfolioLink: "https://www.linkedin.com/in/yidan-xu2000/"
+        },
+        {
+            name: "Jinwei Shi (Jimmy)",
+            background: "My background is industrial design (BEng), during the study I developed some design and engineering skills and learned coding by myself. After studying I went to a sci-fi company to do all sorts of design ranging from graphic design, product design and even interior design. After this I worked as a freelancer and developed some game design skills. Just before going to IDE, I worked at a studio making interactive windows with Hermes.",
+            strength: "Project-oriented. Think through making. Always find ways to solve problem.",
+            weakness: "Not good at expressing ideas and thoughts, especially improvising them. Sometimes insensitive to some social issues. Need a lot of time to think.",
+            values: "Cool things makes our life like magic world.",
+            workEthics: "I am mostly independent worker. I can do group discussion during the day, but if we have to stay up late to work, I prefer divide the work and working independently at home.",
+            topicsYoureInterestedIn: "Compliant Mechanism, Physical and digital interaction, new structures, AI contents",
+            topicsYouWantToAvoid: "Pure app.",
+            portfolioLink: "https://sjwwhenever.xyz/"
+        },
+        {
+            name: "Gisung Han",
+            background: "Industrial designer, kitchen appliances, Digital devices, Furniture, Craft",
+            strength: "Experience, Hard working",
+            weakness: "Language but getting better",
+            values: "Understanding human",
+            workEthics: "Fun",
+            topicsYoureInterestedIn: "Cook",
+            topicsYouWantToAvoid: "Online service",
+            portfolioLink: "https://www.linkedin.com/"
         }
+        
     ];
 
     people.forEach(person => {
