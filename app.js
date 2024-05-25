@@ -4,15 +4,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const people = [
         {
             name: "Saffan Firdaus",
-            background: "I have a background in digital product design, with experience working in multiple e-commerce roles. I hold an undergraduate degree in biomedical engineering and have a passion for participating in hackathons.",
-            strength: "Ability to work effectively in team settings; Respectful of all opinions and open to new ideas; Quick to adapt to new environments; Committed to continuous learning, both technical and non-technical",
-            weakness: "Limited skills in 3D design, but eager to improve; Difficulty with pulling all-nighters",
-            values: "Passionate about creating products that solve problems and help people; Dedicated to continuous building and innovation, aiming to eventually establish a successful startup",
-            workEthics: "Focused on maximizing productivity during weekdays, typically working from 9 AM to 6 PM; Willing to work additional hours during weekdays and weekends if necessary",
+            background: "I have a background in digital product design, worked in various e-commerce roles. Studied biomedical engineering in college and love joining hackathons.",
+            strength: "Good at working in teams, respect all opinions, open to new ideas, adapt quickly to new environments, always want to learn more about both technical and non-technical stuff.",
+            weakness: "Not good at 3D design but willing to learn, can't stay up all night.",
+            values: "Love creating products that solve problems and help people, want to keep building and improving until I make a successful startup.",
+            workEthics: "Maximize time during weekdays, usually work 9-6, but willing to work extra hours and weekends if needed.",
             topicsYoureInterestedIn: "Sustainability; Healthcare; Artificial Intelligence (AI)",
             topicsYouWantToAvoid: "None",
             portfolioLink: "http://saffan.cc/"
-        },
+        },      
         {
             name: "Dandan",
             background: "Visual UI UX",
