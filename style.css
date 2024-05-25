@@ -171,3 +171,14 @@ body, html {
         display: none;
     }
 }
+
+.google-sheet-link {
+    text-align: center;
+    width: 100%; /* Ensure the link is centered within its container */
+}
+
+.google-sheet-link a.blue-link {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
