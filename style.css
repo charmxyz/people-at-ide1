@@ -1,0 +1,173 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #ffffff;
+    position: relative;
+    overflow-x: hidden; 
+}
+
+.desktop-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background-image: url('./image/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 10px; 
+}
+
+.logo-container {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    width: 100%; 
+}
+
+.logo {
+    width: 128px;
+    height: auto;
+}
+
+.people-ide {
+    letter-spacing: -0.02em;
+    line-height: 36px;
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.input-box-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    font-size: 14px;
+    color: #a3a3a3;
+    margin: 20px 0;
+    width: 100%; 
+    box-sizing: border-box;
+}
+
+.search-input {
+    width: calc(30% - 100px);
+    padding: 10px;
+    border: 2px solid #ffffff;
+    border-bottom: 2px solid #6366f1;
+    font-size: 16px;
+    box-sizing: border-box;
+    outline: none;
+    text-align: center;
+}
+
+.button {
+    border-radius: 20px;
+    background-color: #6366f1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+    gap: 6px;
+    text-align: justify;
+    color: #fff;
+    cursor: pointer;
+}
+
+.button .label {
+    font-size: 14px;
+}
+
+.icon-left {
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.frame-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    font-size: 18px;
+    color: #171717;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 45%;
+    border-radius: 20px;
+    background-color: #fff;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    min-height: 320px; 
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 32px;
+    margin: 10px;
+}
+
+.card-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.name {
+    line-height: 28px;
+    font-weight: 600;
+}
+
+.characteristic {
+    font-weight: 600;
+    margin-top: 16px;
+    font-size: 14px;
+}
+
+.placeholder {
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 4px;
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 90%;
+        margin: 20px 0; 
+    }
+    
+    .input-box-parent {
+        display: none;
+    }
+
+    .button {
+        display: none;
+    }
+
+    .card .button {
+        display: none;
+    }
+
+    .card .portfolio-button {
+        display: none;
+    }
+}
