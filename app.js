@@ -145,7 +145,18 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "I'm pretty open and would love to be involved in a project that creates something physical and that interacts with humans. Some interesting topics: healthcare; tech for developing countries; climate related; product",
             topicsYouWantToAvoid: "Purely digital project; Mental health",
             portfolioLink: "https://www.linkedin.com/in/dunni-fadeyi-46a7a51a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-        }        
+        },        
+        {
+            name: "Ching Hang Ng (Isaac)",
+            background: "I had studied Mechanical Engineering in my undergraduate, and had worked in numerous design projects including improving the hydrodynamics of Uber Boats, designing Carbon Capturing facilities, photovoltaic panels, UAV gearbox, engine design, and a medical device to enhance robotic rehab for post stroke patients within my uni.",
+            strength: "I am a hard worker with an eye for detail, this has constructed some of my traits of being a perfectionist, while my soft skills include effective and direct communication despite disagreements, deep dive for primary & secondary research (quantitative and qualitative), distinctive observations, initiative to reach out, being an empathetic listener, and to possess endless curiosity. My hard skills involve Mechanical Design (CAD, DFM & DFA), Computational Fluid Dynamics, Structural Analysis, Experimentation and Validation, Rendering & Product animation (Keyshot), and Hands-on skills.",
+            weakness: "My weakness is that I could become too focused onto a task which influences my work-life balance and may hinder me from multitasking, as I tend to prefer focusing on 1 task to finish off before starting another. Coding and embedded systems skills are also desired to be further achieved.",
+            values: "I have a passion to help the planet and people, I think it is really meaningful and motivating to see the immediate feedback and happiness from my creations to humans, and I wish to do this by creating innovative implementations using science and technology in either sectors of healthcare or sustainability. I also hope to better myself in the process, grow with not only my teammates, but also the project, and make the product able to be commercialized in a startup and possess identity.",
+            workEthics: "I tend to force myself to get things done before the day ends, and typically work throughout the day and night, weekdays and weekends. I am a Team player and consider myself to be quite independent. I prefer the team to have transparent communication on what they are up to and to work together if not have regular meetups to update info. But generally, working together as a team and staying together feels more efficient and prevents the need to consistently update one another frequently.",
+            topicsYoureInterestedIn: "Medical Devices (rehab, disability, neurological impairment interventions etc.), and sustainability or climate interventions (such as carbon capturing, natural hazards preventions, and plastic), physical product, and also could be driven by an interesting observation.",
+            topicsYouWantToAvoid: "Awareness, Apps, Digital design.",
+            portfolioLink: "https://www.linkedin.com/in/ching-hang-ng-458020224/?originalSubdomain=uk"
+        }
                         
     ];
 
