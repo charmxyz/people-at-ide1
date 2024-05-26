@@ -167,7 +167,19 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "Daily objects, Programmable material",
             topicsYouWantToAvoid: "AI",
             portfolioLink: "https://wangyanghuocean.com/"
+        },
+        {
+            name: "Tonghe Wang",
+            background: "I study Product and furniture design for undergraduate",
+            strength: "I am skilled in 3D modeling and prototyping, proficient in sketching and crafting, and knowledgeable about various materials. And a little bit in programming. I excel at uncovering detailed information, often remain calm and approachable. I am always willing to challenge myself with new experiences.",
+            weakness: "I might be too divergent thinking sometimes, which leads to unconventional ideas. I need quiet time to think and am a slow thinker, requiring more time to process information and articulate my thoughts. I easily compromise with others and prefer to avoid arguments.",
+            values: "The process of the project drives me; I don't usually set clear goals. Instead, I start with an unclear goal and explore different ways to solve it. My goal could change depending on the process.",
+            workEthics: "I am a night owl and an independent worker. If I present a bad idea, feel free to tell me directly, and I hope I can do the same with you. I believe the right way to approach a project is through hands-on experimentation rather than spending all day in meetings or discussions. I prefer quickly verifying ideas, even if they already sound very bad.",
+            topicsYoureInterestedIn: "I welcome anything that has a beautiful solution, with harmony lying in the system.",
+            topicsYouWantToAvoid: "Things like service design or social experiments, and anything that is hard to verify and prove whether it works or not.",
+            portfolioLink: "https://tonghe.cargo.site/"
         }
+        
                         
     ];
 
