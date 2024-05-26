@@ -13,7 +13,7 @@ body, html {
     align-items: center;
     justify-content: flex-start;
     min-height: 100vh;
-    background-image: url('./image/background.png');
+    background-image: url('./image/bg2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -170,20 +170,38 @@ body, html {
     .card .portfolio-button {
         display: none;
     }
+
+    .google-sheet-link {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .link-buttons {
+        flex-direction: column;
+        margin-top: 12px;
+        align-items: center;
+    }
+
+    .last-updated {
+        text-align: center;
+        margin-top: 12px;
+    }
 }
+
 
 .google-sheet-link {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     align-items: center;
-    width: 90%; /* Adjust based on your container's width */
-    gap: 10px; /* Adjust the gap as needed */
+    width: 90%; 
+    gap: 10px; 
+    margin-top: 12px;
 }
 
 .link-buttons {
     display: flex;
     align-items: center;
-    gap: 10px; /* Adjust the gap as needed */
+    gap: 10px; 
 }
 
 .blue-link {
@@ -195,6 +213,25 @@ body, html {
 }
 
 .last-updated {
-    margin-left: auto;
-    text-align: right;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    font-size: 14px;
+    color: #333;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer .blue-link {
+    color: #6366f1;
+    text-decoration: none;
+}
+
+.footer .blue-link:hover {
+    text-decoration: underline;
 }

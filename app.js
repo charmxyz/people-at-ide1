@@ -133,8 +133,18 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "Accessible design, humanistic care, or AI combined with the former topics",
             topicsYouWantToAvoid: "Climate change, medical",
             portfolioLink: "https://bingbinghong0309-copy.cargo.site/"
-        }
-        
+        },
+        {
+            name: "Dunni Fadeyi",
+            background: "I studied Mechanical Engineering undergrad and have participated in a few internships in the region.\n\nI've also done an internship looking into business analysis at a Nigerian startup.",
+            strength: "Team player; Good listener and try to ensure everyone in the team feels heard👂; CAD Design; I like to remember the big picture; I enjoy understanding how things work in a wider system; prototyping; take initiative within team projects",
+            weakness: "I work most efficiently in quiet and comfortable spaces (home; studio booths etc.); somewhat of a perfectionist so may take some time to research and make sure I'm happy with the outcome :) ; not the best at visual design but am willing to learn",
+            values: "Participating in 'useful' projects that allow for tangible impact in (a) communities. I am open to take the project forward with the team past IDE",
+            workEthics: "More night owl than early bird; Would prefer at least one day in the weekday when I work independently; like to touch-base regularly within the team",
+            topicsYoureInterestedIn: "I'm pretty open and would love to be involved in a project that creates something physical and that interacts with humans. Some interesting topics: healthcare; tech for developing countries; climate related; product",
+            topicsYouWantToAvoid: "Purely digital project; Mental health",
+            portfolioLink: "https://www.linkedin.com/in/dunni-fadeyi-46a7a51a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }        
                         
     ];
 
