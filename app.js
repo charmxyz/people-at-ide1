@@ -37,14 +37,14 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "Gisung Han",
-            background: "Industrial designer, kitchen appliances, Digital devices, Furniture, Craft",
-            strength: "Experience, Hard working",
-            weakness: "Language but getting better",
-            values: "Understanding human",
-            workEthics: "Fun",
-            topicsYoureInterestedIn: "Cook",
-            topicsYouWantToAvoid: "Online service",
-            portfolioLink: "https://www.linkedin.com/"
+            background: "Industrial Designer / I designed exterior and concept design for Samsung Electronics' home appliances. My background includes furniture design, branding, and consulting at a design agency.",
+            strength: "My love and dedication to IDEs and their companions. :) If you want a design that is both realistic and beautiful, and you have to choose one among industrial designers, I would be the best choice.",
+            weakness: "Language. However, considering the fact that I am studying English for the first time in my middle age, this is an amazing development. I am confident that by next year, I will be able to become a talkative friend.",
+            values: "I have no plans to get a job. I aim to become a director at Samsung or a professor. I am not at risk of dropping out in the middle of an assignment due to becoming an intern or getting a job. My goals are to work well with you all, enjoy studying, improve my English skills, and understand the younger generation. For me, enjoying the class itself is the goal. This also means that I have good followership, respecting and following the purpose and direction of your module.",
+            workEthics: "I want to work happily based on mutual trust and respect. (It's okay if you can't design, but lying is not acceptable.)",
+            topicsYoureInterestedIn: "Things related to human life and emotions. Cooking, food, handling cultural differences, agriculture, laundry, cleaning, music, art, sculpture, performances, robots, furniture, household goods, art objects, education.",
+            topicsYouWantToAvoid: "Services and app services that operate in a 100% digital environment.",
+            portfolioLink: "https://www.behance.net/estabhan"
         },
         {
             name: "Prisca Vilsbol",
@@ -89,7 +89,53 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "Open to many topics but current highlights would be in bio design, future materials and most importantly to take into account sustainability, but not necessarily in the sense most people would understand it. Other than environmental factors, for me sustainability is also about creating long lasting social and welfare benefits for people and communities, as giving people a better quality of life and empowering them as a community is a necessary step for sustainable co-existence. As well, interested in collaborating with scientific community of Imperial :)",
             topicsYouWantToAvoid: "Probably purely digital / tech driven projects",
             portfolioLink: "https://www.linkedin.com/"
+        },
+        {
+            name: "Yuyao Lin",
+            background: "Landscape Architecture",
+            strength: "Eco-knowledge, something related to nature! also personalities, I'm a good listener",
+            weakness: "coding stuff...",
+            values: "a better future!",
+            workEthics: "team player, be on time! let's do this efficiently!",
+            topicsYoureInterestedIn: "climate, nature stuff, ecology?",
+            topicsYouWantToAvoid: "all tech-driven",
+            portfolioLink: "https://www.linkedin.com/"
+        },
+        {
+            name: "Haowen Ma (Alex)",
+            background: "My background is in communications engineering, and I am familiar with programming and mechanical structures. I have been a programming teacher and developed a robotic arm myself. I have a strong interest in HCI.",
+            strength: "Good at teamwork and listening to other people's opinions, prefer practice over expression, have strong creativity, good at execution, hard working",
+            weakness: "Express my ideas very clearly, afraid to raise challenging ideas because I don’t know how to achieve them.",
+            values: "Want to use technology to make interesting and cool things",
+            workEthics: "I feel sluggish in the morning and I like to work in the afternoon and evening (even in the middle of the night). And I need some space when it comes to working independently.",
+            topicsYoureInterestedIn: "AI content, HCI, Mechanical structure related, Wearable device, Game",
+            topicsYouWantToAvoid: "Pure APP",
+            portfolioLink: "https://www.linkedin.com/in/haowen-ma-632214282/"
+        },
+        {
+            name: "Matthew Lee",
+            background: "• Professional: Management Consulting experience at Accenture working with Consumer, Retail, and Technology companies primarily in the AI and Analytics space; Commercial Banking and Wealth Management\n• Education: studied Finance and Computer Applications in undergrad, RCA Graduate Diploma - Product, Interiors and Spatial Design\n\nConsulting; Strategy; Storytelling; AI; Analytics; Data; Finance; Consumer; Retail; Tech",
+            strength: "Top 10 strengths and summary document can be found here: (in portfolio link)\n\nTL;DR on areas I over-index on:\n- Strong Connections: I value strong connections and prioritize creating free ideas. An environment where any idea or course of action can be challenged freely creates stronger outcomes\n- Strategic Dominant: Overall bias in strategic thinking and domain compliments my ability to analyze information, anticipate challenges before they happen, and formulate effective plans\n- Outcome Driven: While I bias toward strategic thinking, I also recognize aspects of trying to create and turn ideas into something real within the constraints of time or resources",
+            weakness: "A few potential downsides about me:\nNow, while I'm excited to work together, I also want to acknowledge my potential blind spots.\n\nSometimes I can get caught up in finding the perfect solution and consider the potential pros and cons of every approach, which might make me seem overly critical. I might also get so focused on the big picture that I have built in my mind, that I choose to overlook certain details or overlook what's happening right now.\n\nMy consideration to both include but also identify where others might play the best role in specific aspects of the project, might also make me appear to prioritize individual needs over the group's needs. I've come to understand through introspection that others can have distinct, opposing, parallel, or tangential thought processes to my own; which I am working on more effectively integrating in my decision making processes.\n\nI tend to ignore prior processes and constraints. Considering that the vision of what is to be achieved to be of extreme importance. But in instances like these I will almost always shamelessly ask others who might have expertise in areas that I would be deficient in knowing the possible downsides of a particular approach or angle.",
+            values: "Difficult problems are great, but also a working toward a singular goal and vision of how we wish things to be. With interventions and outcomes based on how we would transform something to fit the future vision. Passion for the work is also important. As without passion the ability to get through the tougher times will be even more difficult. I'd like to create an outcome that can improve lives.",
+            workEthics: "I am the type that cannot leave work unfinished, so will look to complete tasks as well as possible within the typical workweek. I believe in a realistic approach to breaks with the normal being regular breaks following sprints of focused work.\n\nAs I've lead many teams in the past I'll constantly ask how every one is doing. I also believe that if there are differences or disagreements to lean into the problem and solve the conflict as best as possible and as soon as possible.\n\nI may go on a walk or get a coffee in the middle of the day not just a means to just take a break but also to synthesize in my head all of the insights and data gathered from conversations or desk research. I often will come up with my best ideas, workarounds, or solutions by simple setting changes such as this.",
+            topicsYoureInterestedIn: "Embedded AI, before coming to IDE I worked on building the enterprise use cases for IoT AI/ML. IE using embedded and fit for purpose devices to monitor and strengthen critical infrastructure.\n\nFuture of work; assistive technologies; digital twin (but not strictly VR/AR)",
+            topicsYouWantToAvoid: "I'm not too interested in energy sector based problems, unless they are fit or built for a specific purpose. For instance a smart city project that is projected to increase the energy efficiency of the city. That is great, but I'd rather it'd be an increase in the efficiency of the city for the sake of improving the lives of people or the important services and industries that rely on that energy. There should be a reason for the efficiency.\n\nNot directly interested in healthcare but might be interested in assistive technologies.",
+            portfolioLink: "https://drive.google.com/file/d/1-ntxRQ9DdJyu9uw2bhGLSAEuAMpbOcf9/view?usp=sharing"
+        },
+        {
+            name: "Bingbing Hong",
+            background: "Industrial Design",
+            strength: "Idea developing, Prototyping, Modeling, Visual, Communication",
+            weakness: "Reference research, Coding (can try), Engineering",
+            values: "I like interesting ideas and glad to see different views from diverse people, but I think good ideas should also be feasible and able to benefit the core group at least on a small scale as well as have a long term impact.",
+            workEthics: "I'm a nooner... The group focuses its attention for a couple of hours in daytime, and what can be accomplished individually is put away for later in the afternoon. And I don't like to work on weekends.",
+            topicsYoureInterestedIn: "Accessible design, humanistic care, or AI combined with the former topics",
+            topicsYouWantToAvoid: "Climate change, medical",
+            portfolioLink: "https://bingbinghong0309-copy.cargo.site/"
         }
+        
+                        
     ];
 
     people.forEach(person => {
