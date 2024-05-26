@@ -171,3 +171,21 @@ body, html {
         display: none;
     }
 }
+
+.google-sheet-link {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust the gap as needed */
+}
+
+.blue-link {
+    color: blue;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid blue;
+    border-radius: 4px;
+}
+
+.google-sheet-link span {
+    margin-left: 10px; /* Adjust margin as needed */
+}
