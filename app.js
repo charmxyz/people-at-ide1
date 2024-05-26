@@ -4,15 +4,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const people = [
         {
             name: "Saffan Firdaus",
-            background: "I have a background in digital product design, worked in various e-commerce roles. Studied biomedical engineering in college and love joining hackathons.",
-            strength: "Good at working in teams, respect all opinions, open to new ideas, adapt quickly to new environments, always want to learn more about both technical and non-technical stuff.",
-            weakness: "Not good at 3D design but willing to learn, can't stay up all night.",
-            values: "Love creating products that solve problems and help people, want to keep building and improving until I make a successful startup.",
-            workEthics: "Maximize time during weekdays, usually work 9-6, but willing to work extra hours and weekends if needed.",
-            topicsYoureInterestedIn: "Sustainability; Healthcare; Artificial Intelligence (AI)",
-            topicsYouWantToAvoid: "None",
+            background: "I have 3 years of experience designing digital products for e-commerce, fintech, mining, and other industries. I also started my own startup called Newtab.id, a software house for company consultations. My undergrad was in biomedical engineering. It might seem like I switched fields, but I've learned a lot that I can apply to IDE, such as understanding healthcare, problem-solving, and logical thinking.",
+            strength: "I am multidisciplinary; I can be a product designer, product manager, biomedical engineer, and now I'm trying out software engineering. I'm good at working in teams, view problems from multiple perspectives, and adapt quickly to new environments. I love hackathons—they test my critical thinking, fast ideation, and implementation skills. I'm very good at actual implementation and hard work. In summary, I can handle anything on the software side.",
+            weakness: "I really suck at 3D design, but I've been trying to learn it. I might lack some skills on the hardware side. I tend to jump to solutions quickly sometimes, so I want to improve this in IDE.",
+            values: "I love creating products that solve problems and help people, and I want to keep building and improving until I make a successful startup. I love learning new things. I just learned coding a few days ago and tried to make this site! Let me know what you think, but yeah, my life has been aimed at building products that people actually use.",
+            workEthics: "I maximize my time during weekdays, usually working 9-6, but I'm willing to work extra hours and weekends if needed. I believe in 'no pain, no gain,' but also in work-life balance.",
+            topicsYoureInterestedIn: "I would love to explore education, sustainability, and healthcare, and I'm interested in how AI can help these areas. I'm confident in my software skills but lack hardware skills, though I'm eager to get some hardware projects going.",
+            topicsYouWantToAvoid: "Mental health and neurodiversity, community building, AR/VR",
             portfolioLink: "http://saffan.cc/"
-        },      
+        }
+        ,      
         {
             name: "Dandan",
             background: "Visual UI UX",
@@ -70,13 +71,13 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "Alex Clark",
-            background: "Studied product & industrial design at Central Saint Martins. Before joining IDE, I worked as a consultant in UX and service design. I am skilled in business strategy, UX/user research and graphic design, as well as team management.",
-            strength: "Ideation, problem solving, prototyping, creative execution and strategy",
-            weakness: "I tend to focus on the big picture - I'm not so good at the details. I often start lots of things at once - I occasionally get distracted from finishing things off. I can get a bit fixated sometimes and might need to be pulled back down to earth!",
-            values: "Be optimistic, make others successful, collaborate and embrace ambiguity. I am driven by the ambition to craft a visionary future. My goal is to work with a great team to develop an exceptional idea that could evolve into a business.",
-            workEthics: "Independent, but receptive and communicative. Like to have an open and creative approach.",
-            topicsYoureInterestedIn: "Healthcare, energy futures, accessible tech, sustainability, product & service systems, human-centred design",
-            topicsYouWantToAvoid: "Mental health/neurodiversity, awareness campaigns, crafting/'maker'",
+            background: "Before joining IDE, I worked as a UX and service design consultant. I studied product & industrial design at Central Saint Martins, so I'm skilled in 3D design, sketching and prototyping. I am experienced in business strategy, user research and graphic design, as well as team management. I have a good knowledge of design thinking methods and frameworks.",
+            strength: "Ideation and divergent thinking, problem solving, design thinking, prototyping, creative strategy",
+            weakness: "I often start lots of things at once and don't always complete them in chronological order.\n\nI tend to focus on the big picture and my enthusiasm sometimes dwindles when it gets to the details.\n\nI can get a bit fixated on ideas and concepts and might need to be pulled back down to earth!",
+            values: "Be optimistic, make others successful, collaborate and embrace ambiguity.\n\nI am driven by the ambition to craft a visionary future. My goal is to work with a great team to develop an exceptional idea that could evolve into a business.",
+            workEthics: "I like to have a very open and creative approach and love working as a team, especially when we are challenging and building on each other's ideas. I like to challenge the rules and take initiative, rather than asking for guidance and following directions. I really value constructive criticism and work best when the team shares mutual understanding that's built with trust and good communication.",
+            topicsYoureInterestedIn: "Healthcare, energy futures, accessible tech, sustainability, product & service systems, human-centred design\n\nInterested in solving a practical, real-world problem. Would love to use facilities and labs at Imperial as much as possible!",
+            topicsYouWantToAvoid: "Purely digital/app-based outcomes, mental health/neurodiversity, awareness campaigns, crafting/'maker' projects",
             portfolioLink: "linkedin.com/in/aepclark"
         },
         {
