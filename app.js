@@ -156,6 +156,17 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "Medical Devices (rehab, disability, neurological impairment interventions etc.), and sustainability or climate interventions (such as carbon capturing, natural hazards preventions, and plastic), physical product, and also could be driven by an interesting observation.",
             topicsYouWantToAvoid: "Awareness, Apps, Digital design.",
             portfolioLink: "https://www.linkedin.com/in/ching-hang-ng-458020224/?originalSubdomain=uk"
+        },
+        {
+            name: "Wangyang Hu",
+            background: "Industrial Design",
+            strength: "Easygoing, Aesthetic, Ideation, Critical Thinking, Making",
+            weakness: "Engineering / Coding",
+            values: "Outcome / interest",
+            workEthics: "Work life balance but keep thinking all the time / Don't like design by discussion / Independent worker but doesn't mean working from home / leaderless group / Don't like order and rules : can restart / Let professionals do professional work",
+            topicsYoureInterestedIn: "Daily objects, Programmable material",
+            topicsYouWantToAvoid: "AI",
+            portfolioLink: "https://wangyanghuocean.com/"
         }
                         
     ];
