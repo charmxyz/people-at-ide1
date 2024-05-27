@@ -233,7 +233,19 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "I want to work in a community/ context driven project. To work for and with people who aren’t usually catered to but not because they are ‘an untapped market’ but to actually design for/with care.",
             topicsYouWantToAvoid: "A digital only approach or highly speculative project. Not an incremental add on to optimise existing tech/ solutions. I am on the fence about med tech.",
             portfolioLink: "https://www.linkedin.com/"
+        },
+        {
+            name: "Ruta Arizona Czaplinska",
+            background: "mechanical engineering/consumer electronics",
+            strength: "rational, strategic (looking at the 'big picture'), manufacturing (DFM), organised, good verbal communication",
+            weakness: "dont work well long hours and late",
+            values: "impact on people and/or environment",
+            workEthics: "team work during ideation and initial discussions, solo worker for execution and 'focus work' (like CAD etc)",
+            topicsYoureInterestedIn: "making accessible products, making sustainability accessible, medical/wellness products",
+            topicsYouWantToAvoid: "pure app",
+            portfolioLink: "https://rutarizona.com"
         }
+        
         
     ];
 
