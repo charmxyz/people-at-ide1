@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
             workEthics: "I maximize my time during weekdays, usually working 9-6, but I'm willing to work extra hours and weekends if needed. I believe in 'no pain, no gain,' but also in work-life balance.",
             topicsYoureInterestedIn: "I would love to explore education, sustainability, and healthcare, and I'm interested in how AI can help these areas. I'm confident in my software skills but lack hardware skills, though I'm eager to get some hardware projects going.",
             topicsYouWantToAvoid: "Mental health and neurodiversity, community building, AR/VR",
-            portfolioLink: "http://saffan.cc/"
+            portfolioLink: "https://bit.ly/saffanportfolio"
         }
         ,      
         {
