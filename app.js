@@ -200,10 +200,18 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "I love storytelling. Stories for me are what makes people go aha and I would love to explore the topics that create these 'Aha Moments'. I am very much interested in working on a topic that gives back to the planet either directly or indirectly - exploring future of materials, electronics as well as systems and frameworks that impact and add value to people using them and thus planet they are based in and vice versa (context driven is key). I am also very interested in fun and exciting inventions and innovations because they make me go aha - Novelty Automations or Kew Gardens anyone?",
             topicsYouWantToAvoid: "I would avoid Healthcare or anything related to Outer Space. I also very much dislike mass-manufactured consumer goods or pure digital things like apps. In saying that I am happy to explore them if they fit the idea and project or if they complement the product/experience we are designing.",
             portfolioLink: "https://vishalsmehta.com/"
-        }
-        
-
-                        
+        },
+        {
+            name: "Carmen D Azor",
+            background: "With a diverse background spanning ocean conservation, art collaborations, music, and fashion, I've spearheaded various successful initiatives as the Founding Director of 'Parley for the Oceans' in the Dominican Republic. From establishing local teams and logistics infrastructure to fostering collaborations with government agencies and global brands like LVMH, my journey encompasses orchestrating science research expeditions, leading community programs, and forging ongoing partnerships.",
+            strength: "My strength lies in fostering collaborative efforts and building strategic partnerships that drive impactful change. I bring a unique global network, perspective, and creative approach to problem-solving, coupled with strong communication skills.",
+            weakness: "I recognize that my technical expertise in engineering and software development is limited. To overcome this, I actively seek out and collaborate with skilled technical partners who complement my strengths.",
+            values: "I am driven by a commitment to sustainability, equity, and inclusivity. Integrity, transparency, and empathy are at the core of my values, guiding my interactions and decision-making processes.",
+            workEthics: "I believe in fostering a culture of collaboration, respect, and continuous learning. I don't work well when surrounded by loud noises. I prefer a quiet working environment with outdoor/nature access.",
+            topicsYoureInterestedIn: "Ocean conservation, climate tech, women's health, biomaterials, regenerative design, sustainable development, empowering communities and women.",
+            topicsYouWantToAvoid: "While I'm open to exploring various topics, I prefer to focus on areas where I can make the most meaningful impact, such as those related to climate action, environmental conservation, and social justice.",
+            portfolioLink: "https://www.linkedin.com/"
+        }       
     ];
 
     people.forEach(person => {
