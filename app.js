@@ -178,8 +178,31 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "I welcome anything that has a beautiful solution, with harmony lying in the system.",
             topicsYouWantToAvoid: "Things like service design or social experiments, and anything that is hard to verify and prove whether it works or not.",
             portfolioLink: "https://tonghe.cargo.site/"
+        },
+        {
+            name: "Zikai Ge",
+            background: "I studied Product Design in my Bachelor's Degree. I'm good at 3D modelling, rendering, hardware interaction prototyping, and I've done an internship at ZPMC. I've had systematic exposure to industrial production and I understand a lot of production related knowledge. I can do some animation and graphic related stuff too.",
+            strength: "Enjoys using knowledge from other disciplines to solve problems, observes strange phenomena and discovers their essence, good at listening and giving help, good at mediating conflicts, e.g., often resolves conflicts between electrical and structural engineers.",
+            weakness: "My programming skills are weak (I'm still self-taught) and I'm more inspiration-driven so I sometimes don't pay attention to details (but I'm perfectly capable of polishing it up really nicely if you give me time).",
+            values: "Become a designer who truly changes the world!",
+            workEthics: "I'm a team player (I can discuss and solve problems when working as a team) and a night owl (I'm more productive alone in the latter part of the night) and I don't allow myself to go to bed until the task is done. I hope that we can encourage each other in the group and this will go a long way in giving us the confidence to tackle the challenges.",
+            topicsYoureInterestedIn: "HCI, Climate change, future challenges, ocean issues, systemic solutions",
+            topicsYouWantToAvoid: "Completely digital stuff, psychological, emotionally relevant topics",
+            portfolioLink: "https://www.linkedin.com/"
+        },
+        {
+            name: "Vishal Mehta",
+            background: "I studied Mechanical Engineering. COVID happened and then I shifted to design. I have worked as a designer and engineer (Design Engineer when combined together :p) designing lights, objects and furniture and the systems around them. I have also spent some time as a design & material consultant focusing on traditional Indian craftsmanship and material.",
+            strength: "I believe I am a person who gives and acts of service is my language. I am an avid maker and love getting my hands dirty in the process of making and prototyping. I am someone who will leave no one behind. I am a storyteller and love building a narrative around what we do. I am a communicator and will be very straightforward with what I think and I am very punctual as a person. I am usually very calm and relaxed with the mindset that as long as we are putting in the effort, when times get hard - things will work out in the end.",
+            weakness: "I sometimes go through moments of low self confidence and begin to start doubting my abilities and capabilities. I do get overwhelmed when I am tasked with a lot of things to do and have a bad habit to say yes to many things. I also feel a little uneasy especially when the energy shifts around me. When my hair is long and I haven't cut it, I tend to look perpetually tired but trust me I am not.\n\nIn terms of skills, I say that I am not a very good engineer, my mind doesn't think like that. If I apply myself I will be able to get up to speed with engineering tasks. I also don't know how to code or render very well (willing to learn and skill up).",
+            values: "Having fun - challenging myself - learning new things - being curious - being kind - seeing smiles on people's faces - being inspired from the state of the art designs of our past - attention to detail - less talking, more doing - human connection - human-planet connection - empowering people, communities and systems",
+            workEthics: "I like structure and having my week planned out with tasks, milestones etc. I have become very much of an early bird. I am a team player and at times would like to have some time for myself to do my research independently. As much as possible, I love to have my weekends to rest and recharge. I like to have a good work-life balance and diet as well. And I am not sure if this comes under work ethic but I would love my team to be on time as much as possible (for me people's time needs to be respected). I tend to not be able to work in spaces that are very loud, new or just cluttered. I can also be spontaneous and I am always willing to be experimental. I also do enjoy adding a few elements that will make people laugh in every project and/or presentation.",
+            topicsYoureInterestedIn: "I love storytelling. Stories for me are what makes people go aha and I would love to explore the topics that create these 'Aha Moments'. I am very much interested in working on a topic that gives back to the planet either directly or indirectly - exploring future of materials, electronics as well as systems and frameworks that impact and add value to people using them and thus planet they are based in and vice versa (context driven is key). I am also very interested in fun and exciting inventions and innovations because they make me go aha - Novelty Automations or Kew Gardens anyone?",
+            topicsYouWantToAvoid: "I would avoid Healthcare or anything related to Outer Space. I also very much dislike mass-manufactured consumer goods or pure digital things like apps. In saying that I am happy to explore them if they fit the idea and project or if they complement the product/experience we are designing.",
+            portfolioLink: "https://vishalsmehta.com/"
         }
         
+
                         
     ];
 
