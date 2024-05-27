@@ -222,7 +222,19 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "I believe that every project is meaningful.",
             topicsYouWantToAvoid: "I prefer to avoid projects that are purely digital.",
             portfolioLink: "https://www.linkedin.com/"
+        },
+        {
+            name: "Rashi Agarwala",
+            background: "I studied computer science engineering and then pursued my professional career as a UX researcher in a consultancy helping big tech understand the diverse multilingual landscape in India. Younger me was under the impression that logic and problem solving meant coding but I use those traits and knowledge from my undergrad from a ground up, human centered approach now.",
+            strength: "My flow comes from people around me feeling a sense of belonging and ownership and I hope to bring that space for everyone involved. Comfortable with conflict, I like resolving any tension (no matter how small or big) - sometimes it’s just acknowledging the awkwardness more than anything else. I think the finer undercurrents can impact the whole dynamic. I am patient, easy and love a little banter in the team. In IDE, I think a lot of things and topics are way out of my depth and you’ll catch me asking questions to understand your approach and experience. I like setting up the structures and milestones (low-key type A) but that’s just to avoid the flustered-ness later and not to follow to the T.",
+            weakness: "I am conditioned to work backwards from deadlines (thanks corporate) and sometimes require a nudge to not worry about it when it doesn’t matter. I am more of a researcher/ thinker and making isn’t my intuitive way to approach a problem. I get tensed easily in some situations and have an annoying need to ensure everyone’s on the same page. I can be too structured which I reckon at some phases of the project is really not necessary.",
+            values: "My application to IDE revolved around ‘enable and empower’. I strongly believe that we are a result of our lived experiences, systems and structures and behavioural reinforcements. I believe everyone should have access to the resources, communities and structures to genuinely and authentically be themselves; and am passionate about working in projects that question the status quo and power dynamics and structures. I believe sustainability is a must have of all formats of projects and not just a theme of projects. Understanding the impact (intended and un-intended) is necessary to produce something that is actually positively helpful (Facebook I’m looking at you). No domain functions on its own, and nothing runs independently. The potential of any design is higher when one can be cognizant of its ripple effects, and connections to other domains. I think radicalism is required to get even a moderately impactful solution - to actually question the system and then ground it in reality.",
+            workEthics: "Early bird with milestones and structures. I enjoy the weak reflection system that impact brought in. I like the sweet spot between collaboration and individual work, of knowing when to work together and when to split up. I like keeping the team in loop - I am early myself but don’t need everyone around me to be as anal as I am of time, but keeping me in loop helps me plan my time accordingly and I highly appreciate it.",
+            topicsYoureInterestedIn: "I want to work in a community/ context driven project. To work for and with people who aren’t usually catered to but not because they are ‘an untapped market’ but to actually design for/with care.",
+            topicsYouWantToAvoid: "A digital only approach or highly speculative project. Not an incremental add on to optimise existing tech/ solutions. I am on the fence about med tech.",
+            portfolioLink: "https://www.linkedin.com/"
         }
+        
     ];
 
     people.forEach(person => {
