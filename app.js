@@ -211,7 +211,18 @@ document.addEventListener('DOMContentLoaded', () => {
             topicsYoureInterestedIn: "Ocean conservation, climate tech, women's health, biomaterials, regenerative design, sustainable development, empowering communities and women.",
             topicsYouWantToAvoid: "While I'm open to exploring various topics, I prefer to focus on areas where I can make the most meaningful impact, such as those related to climate action, environmental conservation, and social justice.",
             portfolioLink: "https://www.linkedin.com/"
-        }       
+        },
+        {
+            name: "Jinhak Lee",
+            background: "I majored in Mechanical Engineering and have experience working as an Engineer, Designer, and Strategist at an electronics company. As an Engineer, I have developed and launched over 10 electronic products. As a Designer, I have created forward-thinking products, and I have also formulated global strategies. I have successfully founded and exited two internal startups. I have experience designing and developing next-generation products aimed at a five-year horizon in a research center, and I have crafted global strategies for a company with 200,000 employees. Currently, I enjoy working flexibly as a Design Engineer, switching roles between Engineer and Designer depending on the team’s needs.",
+            strength: "I believe that every idea is a good idea. I trust that through deep discussions with team members and overcoming various obstacles, we can achieve great results. Even seemingly obvious ideas can be transformed into profound ones by uncovering hidden aspects, and seemingly impossible ideas can be solved easily. I respect all of you. I primarily take on the role of a listener, engaging with colleagues, and collaborating to refine ideas. I help guide projects in a positive direction by discussing any overlooked aspects. I am skilled in practical areas such as Industrial Design, Structure Design, Rendering, Unreal Engine, Prototyping, 3D Design, Motion Graphics, and Video Shooting and Editing, all of which contribute to the team's outcomes.",
+            weakness: "Language: Fortunately, my language skills have improved significantly since last September. I expect to be even better by this September. Summarizing the key points before and after meetings greatly helps my understanding. Additionally, there are various ways to overcome this, and I believe I can manage it well.",
+            values: "Meaningful projects, projects that can make a significant impact.",
+            workEthics: "I enjoy being fully engaged in my work. I can adapt to my team members' working styles, whether they are night owls, early birds, hard workers, balanced in work and life, or independent workers.",
+            topicsYoureInterestedIn: "I believe that every project is meaningful.",
+            topicsYouWantToAvoid: "I prefer to avoid projects that are purely digital.",
+            portfolioLink: "https://www.linkedin.com/"
+        }
     ];
 
     people.forEach(person => {
